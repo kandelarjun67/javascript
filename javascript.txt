@@ -1,0 +1,11 @@
+
+We will use these three ways to print the output in javascript 
+
+// the hello world program    ----- Using console.log()
+console.log('Hello World');
+
+// the hello world program    ----- Using alert()
+alert("Hello, World!");
+
+// the hello world program    ------- Using document.write()
+document.write('Hello, World!')
