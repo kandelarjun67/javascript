@@ -45,6 +45,7 @@ let arr8 = [1, 8, 11, 16, 31]
 // change to string using toString()
 let arr8Result = arr8.toString()  // let arrResult is now string
 console.log(arr8Result);     // '1,8,11,16,31'
+console.log(typeof arr8Result)  // 'string'
 
 // join()    -- used to join every item 
 let arr9 = [1, 8, 5, 9]
