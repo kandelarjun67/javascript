@@ -49,7 +49,7 @@ console.log(typeof arr8Result)  // 'string'
 
 // join()    -- used to join every item 
 let arr9 = [1, 8, 5, 9]
-console.log(arr9.join(" and "));
+console.log(arr9.join(" and "));  // '1 and 8 and 5 and 9'
 
 // concat()   --- used to merge array 
 let arr10 = [1, 2]
