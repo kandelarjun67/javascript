@@ -9,7 +9,7 @@ let arr2 = [2, 3, 5, 4, 3]
 
 console.log(arr2.push(2))   // 6
 
-// shift() -- remove the first from the array and print it
+// shift() -- remove the first element from the array and print it
 let arr3 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 console.log(arr3.shift());   // remove first element & return it     // 1
@@ -53,6 +53,7 @@ console.log(arr9.join(" and "));
 // concat()   --- used to merge array 
 let arr10 = [1, 2]
 let arr11 = [3, 4, 5]
+
 
 let newArr11 = arr10.concat(arr11)
 console.log(newArr11)      // [ 1, 2, 3, 4, 5 ]
